@@ -1,0 +1,9 @@
+{
+    "field_w": 178.0,
+    "field_h": 195.0,
+    "nozzle_offset_x": 48.0,
+    "nozzle_offset_y": 25.0,
+    "travel_speed": 200.0,
+    "plunge_speed": 10.0,
+    "engrave_speed": 200.0
+}
